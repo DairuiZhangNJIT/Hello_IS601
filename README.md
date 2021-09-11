@@ -1,2 +1,4 @@
 # Hello_IS601
 This repository is for IS601 assignment GIT Introduction.
+
+This is a change from other people.(by the other Github account of mine.)
